@@ -1,0 +1,9 @@
+# Automated-Duplicate-File-Detector
+# No external dependencies required
+# Uses only Python standard library modules
+
+# Standard Library Modules Used:
+# - hashlib (for MD5 checksum calculation)
+# - os (for directory traversal and file operations)
+
+# Python Version Required: 3.6+
