@@ -4,7 +4,7 @@ This directory contains the core implementation of the Automated-Duplicate-File-
 
 ---
 
-## Contents
+## Contents 
 
 | File | Description |
 |---|---|
